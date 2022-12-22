@@ -1,0 +1,15 @@
+
+body{
+    margin: 20px;
+}
+
+.row{
+    border: 1px solid black;
+    padding: 2px;
+    
+}
+
+.col, .col-2,.col-3,.col-4,.col-md,.col-sm,.col-6{
+    border: 1px dashed red;
+    padding: 2px;
+}
